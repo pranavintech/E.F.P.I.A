@@ -3,7 +3,7 @@ The EFPIA project raises funds for endangered animals while benefiting the publi
 
 to run in local machine clone this project and then , follow the commands below:-
 
-cd NFT-Marketplace-Tutorial \n
+cd NFT-Marketplace-Tutorial /n
 npm instal \n
 npm start \n
 
